@@ -1,4 +1,4 @@
-Información sobre el Proyecto!
+Información sobre el Proyecto!!
 
 TEMÁTICA DEL SITIO
 Nuestro proyecto se trata de un eCommerce dedicado a ofrecer servicios y productos para al cuidado y belleza de las uñas para la empresa dri.naildesign.  
